@@ -1,6 +1,6 @@
 ## 👋 Hi there, I'm Oshim Pathan!
 
-![Profile views](https://komarev.com/ghpvc/?username=oseempathan&color=blueviolet&style=flat-square)
+![Profile views](https://komarev.com/ghpvc/?username=OshimPathan&color=blueviolet&style=flat-square)
 
 I'm passionate about building scalable and performant web and mobile applications that solve real-world problems.
 
@@ -10,8 +10,8 @@ I'm passionate about building scalable and performant web and mobile application
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-oshimpathan.com.np-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://oshimpathan.com.np)
 [![Gmail](https://img.shields.io/badge/Gmail-work.oshimkhan@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:work.oshimkhan@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/oseempathan)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/oseempathan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/OshimPathan)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OshimPathan)
 
 ---
 
@@ -58,14 +58,14 @@ I'm passionate about building scalable and performant web and mobile application
 
 If you think I deserve a little pick-me-up, why not treat me to a cup of coffee/tea? 😊
 
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/oseempathan)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/OshimPathan)
 
 ---
 
 ### 📊 My GitHub contributions summary
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=oseempathan&theme=radical&hide_border=true&background=0D1117&stroke=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OshimPathan&theme=radical&hide_border=true&background=0D1117&stroke=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="GitHub Streak"/>
 </p>
 
 ---
@@ -73,8 +73,8 @@ If you think I deserve a little pick-me-up, why not treat me to a cup of coffee/
 ### 📈 Oshim's GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oseempathan&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&icon_color=e05397&title_color=e05397" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oseempathan&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=e05397" alt="Top Languages" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=OshimPathan&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&icon_color=e05397&title_color=e05397" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OshimPathan&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=e05397" alt="Top Languages" height="170"/>
 </p>
 
 ---
@@ -82,7 +82,7 @@ If you think I deserve a little pick-me-up, why not treat me to a cup of coffee/
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=oseempathan&theme=radical&no-frame=true&row=1&column=7&no-bg=true" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=OshimPathan&theme=radical&no-frame=true&row=1&column=7&no-bg=true" alt="GitHub Trophies"/>
 </p>
 
 ---
