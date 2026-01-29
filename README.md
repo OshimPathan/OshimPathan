@@ -10,7 +10,7 @@ I'm passionate about building scalable and performant web and mobile application
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-oshimpathan.com.np-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://oshimpathan.com.np)
 [![Gmail](https://img.shields.io/badge/Gmail-work.oshimkhan@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:work.oshimkhan@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/OshimPathan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oshim7786/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OshimPathan)
 
 ---
