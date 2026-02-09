@@ -117,11 +117,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=OshimPathan&theme=matrix&no-frame=true&no-bg=true&row=1&column=7&margin-w=15" />
 </p>
 
-<!-- Snake Animation -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/OshimPathan/OshimPathan/output/github-snake-dark.svg" alt="Snake animation" />
-</p>
-
 ---
 
 <div align="center">
