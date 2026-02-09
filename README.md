@@ -104,12 +104,12 @@
 
 <!-- Stats Cards -->
 <p align="center">
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=OshimPathan&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00d9ff&text_color=ffffff&include_all_commits=true&count_private=true" />
-  <img width="49%" src="https://streak-stats.demolab.com/?user=OshimPathan&theme=chartreuse-dark&hide_border=true&background=0d1117&stroke=00ff88&ring=00ff88&fire=00d9ff&currStreakLabel=00ff88" />
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=OshimPathan&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00d9ff&text_color=00ff88&include_all_commits=true&count_private=true" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=OshimPathan&hide_border=true&background=0d1117&stroke=00ff88&ring=00ff88&fire=00d9ff&currStreakLabel=00ff88&sideLabels=00ff88&currStreakNum=00ff88&sideNums=00d9ff&dates=00ff88" />
 </p>
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=OshimPathan&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=ffffff&langs_count=8" />
+  <img width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=OshimPathan&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=00ff88&langs_count=8" />
 </p>
 
 <!-- Trophies -->
